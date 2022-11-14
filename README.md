@@ -3,8 +3,8 @@
 <p align="center">
     <img src="/images/cood1_1.png" width="45%" alt="">
     <img src="/images/cood1_7.png" width="45%" alt="">
-    <img src="/images/cood1_1.png" width="45%" alt="">
-    <img src="/images/cood1_1.png" width="45%" alt="">
+    <img src="/images/cood2_1.png" width="45%" alt="">
+    <img src="/images/cood2_7.png" width="45%" alt="">
     <div align="center">Single Vehicle Perception v.s. Cooperative Perception</div>
 </p>
 
