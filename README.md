@@ -8,13 +8,10 @@ Please refer to the [OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD) reposito
     <img src="/images/cood1_7.png" width="45%" alt="">
     <img src="/images/cood2_1.png" width="45%" alt="">
     <img src="/images/cood2_7.png" width="45%" alt="">
-<<<<<<< HEAD
     <img src="/images/cood3_1.png" width="45%" alt="">
     <img src="/images/cood3_7.png" width="45%" alt="">
     <img src="/images/cood4_1.png" width="45%" alt="">
     <img src="/images/cood4_7.png" width="45%" alt="">
-=======
->>>>>>> 1e04cc56d3770cc3998a5b161b3881981aea591d
     <div align="center">Single Vehicle Perception v.s. Cooperative Perception</div>
 </p>
 
