@@ -1,5 +1,6 @@
 # Adaptive Feature Fusion for Cooperative Perception using LiDAR Point Clouds [[WACV2023](https://wacv2023.thecvf.com)][[paper](https://arxiv.org/abs/2208.00116)]
 
+Please refer to the [OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD) repository for setup and installation.
 
 ## Qualitative Results
 <p align="center">
@@ -13,8 +14,6 @@
     <img src="/images/cood4_7.png" width="45%" alt="">
     <div align="center">Single Vehicle Perception v.s. Cooperative Perception</div>
 </p>
-
-Please refer to the [OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD) repository for setup and installation.
 
 
 ## Training
