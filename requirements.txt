@@ -1,8 +1,11 @@
 matplotlib
-numpy
+numpy==1.21.0
 open3d
 opencv-python
 cython
 tensorboardX
 shapely
 einops
+cumm
+timm
+flask==2.1.3

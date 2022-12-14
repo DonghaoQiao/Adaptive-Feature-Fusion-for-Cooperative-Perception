@@ -1,6 +1,16 @@
 # Adaptive Feature Fusion for Cooperative Perception using LiDAR Point Clouds [[WACV2023](https://wacv2023.thecvf.com)][[paper](https://arxiv.org/abs/2208.00116)]
 
 Please refer to the [OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD) repository for setup and installation.
+Install bbx NMS calculation CUDA version
+```python
+python3 opencood/utils/setup.py build_ext --inplace
+```
+Install the dependencies
+```python
+python3 setup.py --user
+```
+Install [spconv](https://github.com/traveller59/spconv)
+eg. pip3 install spconv-cu113
 
 ## Training
 ```python
