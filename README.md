@@ -1,5 +1,6 @@
 # Adaptive Feature Fusion for Cooperative Perception using LiDAR Point Clouds [[WACV2023](https://wacv2023.thecvf.com)][[paper](https://arxiv.org/abs/2208.00116)]
 
+## Installation
 Please refer to the [OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD) repository for setup and installation.
 
 ### Some installation commands used in this research
