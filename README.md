@@ -10,7 +10,10 @@ Install the dependencies
 python3 setup.py --user
 ```
 Install [spconv](https://github.com/traveller59/spconv)
-eg. pip3 install spconv-cu113
+e.g. 
+```python
+pip3 install spconv-cu113
+```
 
 ## Training
 ```python
