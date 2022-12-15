@@ -8,11 +8,12 @@ Install bbx NMS calculation CUDA version:
 ```python
 python3 opencood/utils/setup.py build_ext --inplace
 ```
-Install the dependencies:
+Setup:
 ```python
 python3 setup.py --user
 ```
 Install [spconv](https://github.com/traveller59/spconv):
+
 e.g. 
 ```python
 pip3 install spconv-cu113
