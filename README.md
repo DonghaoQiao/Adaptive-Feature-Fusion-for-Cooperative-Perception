@@ -27,7 +27,7 @@ python3 opencood/tools/train.py --hypes_yaml opencood/hypes_yaml/point_pillar_sp
 ## Evaluation
 Before you run the following command, first make sure the `validation_dir` in config.yaml under your checkpoint folder.
 - Testing dataset path: `opv2v_data_dumping/test`.
-- Culver City dataset path: `'opv2v_data_dumping/test_culver_cit`.
+- Culver City dataset path: `opv2v_data_dumping/test_culver_city`.
 
 ```python
 python3 opencood/tools/inference.py --model_dir opencood/logs/point_pillar_spatialcooper/ --fusion_method intermediate
