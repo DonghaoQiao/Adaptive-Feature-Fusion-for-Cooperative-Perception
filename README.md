@@ -10,7 +10,7 @@ python3 opencood/utils/setup.py build_ext --inplace
 ```
 Setup:
 ```python
-python3 setup.py --user
+python3 setup.py develop --user
 ```
 Install [spconv](https://github.com/traveller59/spconv):
 
